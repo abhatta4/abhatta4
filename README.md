@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abhatta4
-- 👀 I’m interested in Biophysics and computational genomics
-- 🌱 I’m currently learning computational biology and bioinformatics
+- 👀 I’m interested in Biophysics and computational biology
 - 💞️ I’m looking to collaborate on Bioinformatics projects
 
 - 😄 Pronouns: she/her
